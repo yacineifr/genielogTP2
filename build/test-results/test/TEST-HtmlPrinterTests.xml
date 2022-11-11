@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HtmlPrinterTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-05T20:24:14" hostname="MacBook-Soufiane.local" time="0.498">
+  <properties/>
+  <testcase name="exampleStatement()" classname="HtmlPrinterTests" time="0.344"/>
+  <testcase name="statementWithNewPlayTypes()" classname="HtmlPrinterTests" time="0.153"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

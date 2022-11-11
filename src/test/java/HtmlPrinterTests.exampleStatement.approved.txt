@@ -1,0 +1,6 @@
+<h3>Statement for BigCo </h3>
+<ul>  <li> <h5>Hamlet: $650.00 (55 seats)</h5></li>
+  <li> <h5>As You Like It: $580.00 (35 seats)</h5></li>
+  <li> <h5>Othello: $500.00 (40 seats)</h5></li>
+</ul><h4>Amount owed is $1,730.00</h4>
+<h4>You earned 47 credits</h4>
